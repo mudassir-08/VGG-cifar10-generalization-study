@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Notebook and tooling caches
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local datasets and generated arrays
+data/
+datasets/
+*.npy
+
+# Model checkpoints and parameter files
+checkpoints/
+**/checkpoints/
+weights/
+**/weights/
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+*.onnx
+*.h5
+*.keras
+*.bin
+
+# Generated experiment outputs
+logs/
+plots/
+
+# Local/editor/OS files
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+*.swp
+*.swo

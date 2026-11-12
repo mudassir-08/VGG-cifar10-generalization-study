@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use or refer to this project, please cite it as follows."
+title: "Evaluating CIFAR-10 Generalization with ModernVGG-BN"
+type: software
+authors:
+  - name: "Malik Muhammad Mudassir Iqbal"
+keywords:
+  - computer vision
+  - image classification
+  - CIFAR-10
+  - CIFAR-10.1
+  - dataset shift
